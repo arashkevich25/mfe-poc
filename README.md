@@ -1,0 +1,3 @@
+- install packages in front-1, front-2, front-3, host
+- yarn start
+- open browser on http://localhost:5173/

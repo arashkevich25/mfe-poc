@@ -22,9 +22,7 @@
   },
   "include": ["src"],
   "paths": {
-    "teamA": ["teamA/*"],
-    "teamC": ["teamC/*"],
-    "teamB": ["teamB/*"],
+    "~/*": ["./app/*"]
   },
   "references": [{ "path": "./tsconfig.node.json" }]
 }
